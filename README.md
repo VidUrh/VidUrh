@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! Here, you'll find a showcase of my projects, contributions, and skills as a Python programmer with a passion for innovation and problem-solving.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidurh&label=Profile%20views&color=0e75b6&style=flat" alt="vidurh" /> </p>
-## About Me
+
+### About Me
 
 I am an experienced Python programmer with over 7 years of hands-on coding experience. Throughout my career, I have honed my skills in various domains, including web development, robotics, and artificial intelligence. My journey as a programmer began with web development, where I gained proficiency in PHP, JavaScript, and database systems. 
 
@@ -29,7 +30,7 @@ Beyond my professional work, I am an avid creator in my spare time. I have devel
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidurh&" alt="vidurh" /></p>
 
-## GitHub Projects
+### GitHub Projects
 
 Here are a few highlighted projects from my GitHub repository:
 
